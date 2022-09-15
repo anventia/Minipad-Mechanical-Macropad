@@ -157,7 +157,7 @@
       (net 6 "Net-(D4-Pad2)") (pintype "passive")
       (options (clearance outline) (anchor rect))
       (primitives
-    (gr_arc (start -0.7 -1.15) (mid 0.092815 -0.13136) (end -0.00972 1.155368) (width 0.2))
+    (gr_arc (start -0.7 -1.15) (mid 0.092368 -0.13285) (end -0.00837 1.152566) (width 0.2))
         (gr_line (start -0.7 -1.15) (end 1.175 -1.15) (width 0.2))
         (gr_line (start 1.175 -1.15) (end 1.175 1.15) (width 0.2))
         (gr_line (start 1.175 1.15) (end 0 1.15) (width 0.2))
@@ -290,7 +290,7 @@
       (net 4 "Net-(D3-Pad2)") (pintype "passive")
       (options (clearance outline) (anchor rect))
       (primitives
-    (gr_arc (start -0.7 -1.15) (mid 0.092815 -0.13136) (end -0.00972 1.155368) (width 0.2))
+    (gr_arc (start -0.7 -1.15) (mid 0.092368 -0.13285) (end -0.00837 1.152566) (width 0.2))
         (gr_line (start -0.7 -1.15) (end 1.175 -1.15) (width 0.2))
         (gr_line (start 1.175 -1.15) (end 1.175 1.15) (width 0.2))
         (gr_line (start 1.175 1.15) (end 0 1.15) (width 0.2))
@@ -508,7 +508,7 @@
       (net 3 "Net-(D2-Pad2)") (pintype "passive")
       (options (clearance outline) (anchor rect))
       (primitives
-    (gr_arc (start -0.7 -1.15) (mid 0.092815 -0.13136) (end -0.00972 1.155368) (width 0.2))
+    (gr_arc (start -0.7 -1.15) (mid 0.092368 -0.13285) (end -0.00837 1.152566) (width 0.2))
         (gr_line (start -0.7 -1.15) (end 1.175 -1.15) (width 0.2))
         (gr_line (start 1.175 -1.15) (end 1.175 1.15) (width 0.2))
         (gr_line (start 1.175 1.15) (end 0 1.15) (width 0.2))
@@ -722,7 +722,7 @@
       (net 8 "Net-(D6-Pad2)") (pintype "passive")
       (options (clearance outline) (anchor rect))
       (primitives
-    (gr_arc (start -0.7 -1.15) (mid 0.092815 -0.13136) (end -0.00972 1.155368) (width 0.2))
+    (gr_arc (start -0.7 -1.15) (mid 0.092368 -0.13285) (end -0.00837 1.152566) (width 0.2))
         (gr_line (start -0.7 -1.15) (end 1.175 -1.15) (width 0.2))
         (gr_line (start 1.175 -1.15) (end 1.175 1.15) (width 0.2))
         (gr_line (start 1.175 1.15) (end 0 1.15) (width 0.2))
@@ -895,7 +895,7 @@
       (net 2 "Net-(D1-Pad2)") (pintype "passive")
       (options (clearance outline) (anchor rect))
       (primitives
-    (gr_arc (start -0.7 -1.15) (mid 0.092815 -0.13136) (end -0.00972 1.155368) (width 0.2))
+    (gr_arc (start -0.7 -1.15) (mid 0.092368 -0.13285) (end -0.00837 1.152566) (width 0.2))
         (gr_line (start -0.7 -1.15) (end 1.175 -1.15) (width 0.2))
         (gr_line (start 1.175 -1.15) (end 1.175 1.15) (width 0.2))
         (gr_line (start 1.175 1.15) (end 0 1.15) (width 0.2))
@@ -1311,7 +1311,7 @@
       (net 7 "Net-(D5-Pad2)") (pintype "passive")
       (options (clearance outline) (anchor rect))
       (primitives
-    (gr_arc (start -0.7 -1.15) (mid 0.092815 -0.13136) (end -0.00972 1.155368) (width 0.2))
+    (gr_arc (start -0.7 -1.15) (mid 0.092368 -0.13285) (end -0.00837 1.152566) (width 0.2))
         (gr_line (start -0.7 -1.15) (end 1.175 -1.15) (width 0.2))
         (gr_line (start 1.175 -1.15) (end 1.175 1.15) (width 0.2))
         (gr_line (start 1.175 1.15) (end 0 1.15) (width 0.2))
@@ -4840,7 +4840,6 @@
       ) (layer "B.SilkS") (width 0) (fill solid) (tstamp d7d48357-e34c-464d-af61-9df5a754c723))
   )
 
-  (gr_circle (center 241.48 125.811303) (end 243.655 125.811303) (layer "F.Cu") (width 0.2) (fill none) (tstamp ef49a903-7d94-4332-a461-f2c0e0c9a8fa))
   (gr_line (start 256.778338 160.139197) (end 256.778338 122.039165) (layer "Edge.Cuts") (width 0.1) (tstamp 1a8591ca-33da-46ca-9bbc-b4d6a8233628))
   (gr_arc (start 253.603338 118.864165) (mid 255.848402 119.794101) (end 256.778338 122.039165) (layer "Edge.Cuts") (width 0.1) (tstamp 4fe73875-82c8-4fd6-98f6-db3967f9c369))
   (gr_line (start 196.45329 118.864165) (end 253.603338 118.864165) (layer "Edge.Cuts") (width 0.1) (tstamp 547a1aa9-30fb-4cf6-b392-c100547635eb))
